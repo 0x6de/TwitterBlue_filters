@@ -6,6 +6,7 @@
 
 ! --- hide twitter blue buttons ---
 twitter.com##[aria-label="Twitter Blue"]
-twitter.com##[href="/i/verified-orgs-signup"]
 twitter.com##[href="/i/twitter_blue_sign_up"]
 
+! --- hide twitter verified orgs buttons ---
+twitter.com##[href="/i/verified-orgs-signup"]
