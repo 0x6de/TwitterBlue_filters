@@ -16,5 +16,5 @@ Filter list to hide everything related to Twitter Blue on twitter.com with [Ublo
 4. Apply
 
 
-If you still want to see Twitter Blue subscribers tweets use **Blue_Lite.txt :**  
+_If you only want to hide Twitter Blue buttons and still see Twitter Blue subscribers tweets, use **Blue_Lite.txt :**_  
 `https://raw.githubusercontent.com/0x6de/TwitterBlue_filters/main/Blue_Lite.txt`
