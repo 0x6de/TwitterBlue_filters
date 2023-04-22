@@ -1,5 +1,5 @@
 ! Title: Twitter Blue filters
-! Description: Hide everything about Twitter Blue on twitter.com
+! Description: Hide everything related to Twitter Blue on twitter.com
 
 ! 22/04/2023
 
