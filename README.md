@@ -1,6 +1,6 @@
 ## About
 
-Filter list to hide everything related to Twitter Blue on twitter with [Ublock Origin](https://github.com/gorhill/uBlock).
+Filter list to hide everything related to Twitter Blue on twitter.com with [Ublock Origin](https://github.com/gorhill/uBlock).
 
 
 ✔ Hide Twitter Blue buttons from header and settings.  
