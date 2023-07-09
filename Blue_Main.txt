@@ -1,7 +1,7 @@
 ! Title: Twitter Blue filters
 ! Description: Hide everything related to Twitter Blue on twitter.com
 
-! 22/04/2023
+! 09/07/2023
 
 
 ! --- hide twitter blue buttons ---
