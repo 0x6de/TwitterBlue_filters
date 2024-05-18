@@ -8,8 +8,13 @@
 twitter.com##[aria-label="Twitter Blue"]
 twitter.com##[href="/i/twitter_blue_sign_up"]
 twitter.com##[href="/i/premium_sign_up"]
+x.com##[aria-label="Twitter Blue"]
+x.com##[href="/i/twitter_blue_sign_up"]
+x.com##[href="/i/premium_sign_up"]
 
 
 ! --- hide twitter verified orgs buttons ---
 twitter.com##[href="/i/verified-orgs-signup"]
 twitter.com##[href="/i/verified-choose"]
+x.com##[href="/i/verified-orgs-signup"]
+x.com##[href="/i/verified-choose"]
